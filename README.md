@@ -1,16 +1,16 @@
-### Hi there 👋
+```C++
+┌──(Ag1leByte@root)-[~/]
+└─$ cat Ag1leByte.cxx
 
-<!--
-**ag1lebyte/Ag1leByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio {
+  std::string name = "Viktoria"
+  std::string github = "https://github.com/ag1lebyte"
+  std::string telegram = "@Ag1leByte"
+};
 
-Here are some ideas to get you started:
+ ┌──(Ag1leByte@root)-[~/]
+ └─$
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
