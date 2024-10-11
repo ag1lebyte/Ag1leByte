@@ -7,7 +7,6 @@
 class Bio {
   std::string name = "Viktoria"
   std::string github = "https://github.com/ag1lebyte"
-  std::string telegram = "@Ag1leByte"
 };
 
  ┌──(Ag1leByte@root)-[~/]
