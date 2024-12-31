@@ -2,11 +2,11 @@
 
 ```C++
 ┌──(Ag1leByte@root)-[~/]
-└─$ cat Ag1leByte.cxx
+└─$ cat 0xx.cxx
 
 class Bio {
-  std::string name = "Viktoria"
-  std::string github = "https://github.com/ag1lebyte"
+  std::string name = "0xx"
+  std::string github = "https://github.com/oxxasksaksjd"
 };
 
  ┌──(Ag1leByte@root)-[~/]
