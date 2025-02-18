@@ -2,14 +2,15 @@
 
 ```C++
 ┌──(s323@root)-[~/]
-└─$ cat s323.cxx
+└─$ cat agent-s323-bio.hxx
 
 class Bio {
   std::string __agent = "s323"
-  std::string github = "https://github.com/oxxasksaksjd"
+  bool __status = 1;
+  std::string __github = "https://github.com/agent-s323"
 };
 
- ┌──(Ag1leByte@root)-[~/]
+ ┌──(s323@root)-[~/]
  └─$
 ```
 
