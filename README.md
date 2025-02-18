@@ -1,11 +1,11 @@
 <a href="https://github.com/ag1lebyte"><img src="https://raw.githubusercontent.com/ag1lebyte/Ag1leByte/main/x.gif"></a>
 
 ```C++
-┌──(Ag1leByte@root)-[~/]
-└─$ cat 0xx.cxx
+┌──(s323@root)-[~/]
+└─$ cat s323.cxx
 
 class Bio {
-  std::string name = "0xx"
+  std::string __agent = "s323"
   std::string github = "https://github.com/oxxasksaksjd"
 };
 
